@@ -4,4 +4,5 @@
 - 🌱 I’m currently learning Software Engineering from ALX (BootCamp)
 - 👯 I’m a Student of IU International University of Applied Sciences Germany (B.sc in Computer Science)
 - 🐍 Python is my strong language
+- 🐍 Django Developer
 
