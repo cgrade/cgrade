@@ -6,3 +6,5 @@
 - 🐍 Python is my strong language
 - 🐍 Django Developer
 
+
+PepelitoBlaze - i got you, i'm updating my bio ASAP
