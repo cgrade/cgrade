@@ -1,3 +1,3 @@
 Hi there!
 
-I'm Mr Grade, A Certified Software Engineer, Blockchain Developer 
+Blockchain Architect & Content Strategist. Building secure, efficient dApps & empowering users with clear Web3 education.
